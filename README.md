@@ -10,20 +10,20 @@
     
 ## 使用方式
   ### build.gradle 中添加以下代码
-   <pre><code>
+   
       allprojects {
         repositories {
           ...
           maven { url 'https://jitpack.io' }
         }
       }
-   </code></pre>
+   
    
    ### dependency 中添加以下库引用代码
-    <pre><code>
+    
      	dependencies {
 		    implementation 'com.github.User:Repo:Tag'
 	    }
-   </code></pre>
+   
    
    
