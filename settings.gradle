@@ -1,1 +1,1 @@
-include ':app', ':bitmapprocess',':utilcode'
+include ':app', ':bitmapprocess'

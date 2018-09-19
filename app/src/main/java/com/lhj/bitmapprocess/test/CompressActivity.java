@@ -9,11 +9,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.blankj.utilcode.util.LogUtils;
 import com.lhj.bitmapprocess.BitmapCompressUtil;
 import com.lhj.bitmapprocess.BitmapUtil;
-
-import java.io.ByteArrayOutputStream;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -69,7 +66,7 @@ public class CompressActivity extends AppCompatActivity {
 
     private void print(){
         imageView.setImageBitmap(bitmap);
-        tv.setText("图片大小："+ (bitmap.getByteCount() / 1024 / 1024)+"M"+
+        tv.setText("图片大小："+ (bitmap.getByteCount() / 1024)+"KB"+
                 "  图片宽度："+bitmap.getWidth()+
                 "  图片高度："+bitmap.getHeight());
     }

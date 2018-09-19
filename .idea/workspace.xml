@@ -18,11 +18,109 @@
     <list default="true" id="b2ca272e-bc54-4cd6-bede-cb0cf3130783" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_28_0_0_rc02.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_28_0_0_rc02.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_28_0_0_rc02.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_28_0_0_rc02.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/CompressActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/CompressActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/MainActivity.java" />
+      <change beforePath="$PROJECT_DIR$/bitmapprocess/src/main/java/com/lhj/bitmapprocess/BitmapUtil.java" afterPath="$PROJECT_DIR$/bitmapprocess/src/main/java/com/lhj/bitmapprocess/BitmapUtil.java" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change beforePath="$PROJECT_DIR$/utilcode/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/build.gradle" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/proguard-rules.pro" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/project.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/AndroidManifest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/constant/MemoryConstants.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/constant/RegexConstants.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/constant/TimeConstants.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/ActivityUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/AppUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/BarUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/CacheUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/CaculaOrFormatUtil.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/CameraUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/CleanUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/ClipboardUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/CloseUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/ConvertUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/CrashUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/DeviceUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/EmptyUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/EncodeUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/EncryptUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/FileIOUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/FileUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/FragmentUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/ImageUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/IntentUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/KeyboardUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/LocationUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/LogUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/LunarUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/NetworkUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/PermissionUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/PhoneUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/PinyinUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/ProcessUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/RegexUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/SDCardUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/SPUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/ScreenUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/ServiceUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/ShellUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/SizeUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/SnackbarUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/SpanUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/StringUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/ThreadPoolUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/TimeUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/ToastUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/Utils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/VibrationUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/blankj/utilcode/util/ZipUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/CacheUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/ClipboardUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/ConvertUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/DogeTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/EmptyUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/EncodeUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/EncryptUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/FileIOUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/FileUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/PinyinUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/RegexUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/SDCardUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/SPUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/StringUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/TestUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/TimeUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/util/ZipUtilsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/res/encrypt/MD5.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/res/file/GBK.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/res/file/UTF16BE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/res/file/UTF8.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/res/file/Unicode.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/res/zip/testZip/test.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/res/zip/testZip/testDir/test.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/res/zip/testZip/测试.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/src/test/res/zip/testZip/测试文件夹/测试.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/utilcode/utilcode.iml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,12 +153,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="CompressActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CompressActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/CompressActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="522">
+              <caret line="68" column="51" lean-forward="false" selection-start-line="68" selection-start-column="51" selection-end-line="68" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,24 +191,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/MainActivity.java">
+      <file leaf-file-name="BitmapUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitmapprocess/src/main/java/com/lhj/bitmapprocess/BitmapUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-              <folding />
+            <state relative-caret-position="120">
+              <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+              <folding>
+                <element signature="method#encodeYUV420SP#0;class#BitmapUtil#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="515">
-              <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+              <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -161,10 +275,6 @@
                 <option name="name" value=":bitmapprocess" />
                 <option name="path" value="$PROJECT_DIR$/bitmapprocess" />
               </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value=":utilcode" />
-                <option name="path" value="$PROJECT_DIR$/utilcode" />
-              </ExternalProjectPojo>
             </list>
           </value>
         </entry>
@@ -191,10 +301,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="validateSigningDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformClassesAndResourcesWithProguardForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -368,10 +474,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformClassesWithJacocoForDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -505,11 +607,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="assembleDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Creates test coverage reports for the debug variant." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="createDebugCoverageReport" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -856,10 +953,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="jacocoTestReport" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="createFullJarDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -978,11 +1071,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="transformResourcesWithMergeJavaResForDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Creates JaCoCo test coverage report from data gathered on the device." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="createDebugAndroidTestCoverageReport" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects that depend on it." />
@@ -4049,23 +4137,23 @@
       <list>
         <option value="$PROJECT_DIR$/bitmapprocess/build.gradle" />
         <option value="$PROJECT_DIR$/bitmapprocess/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/utilcode/build.gradle" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/bitmapprocess/src/main/java/com/lhj/bitmapprocess/BitmapUtil.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/comprocess.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/CompressActivity.java" />
         <option value="$PROJECT_DIR$/bitmapprocess/src/main/java/com/lhj/bitmapprocess/BitmapCompressUtil.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/bitmapprocess/src/main/java/com/lhj/bitmapprocess/BitmapUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/CompressActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="-7" />
+    <option name="y" value="1" />
     <option name="width" value="1936" />
     <option name="height" value="1026" />
   </component>
@@ -4149,6 +4237,41 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Bitmapprocess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bitmapprocess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bitmapprocess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bitmapprocess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bitmapprocess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bitmapprocess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bitmapprocess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bitmapprocess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bitmapprocess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bitmapprocess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bitmapprocess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bitmapprocess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bitmapprocess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bitmapprocess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="bitmapprocess" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bitmapprocess" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -4160,10 +4283,10 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="android.sdk.path" value="D:/developmentTools/Sdk" />
-    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.last.selected" value="utilcode" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="last_opened_file_path" value="D:/project/youcaihua/ych/utilcode" />
-    <property name="device.picker.selection" value="0123456789ABCDEF" />
+    <property name="device.picker.selection" value="Nexus_5X_API_28_2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -4360,7 +4483,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -4378,7 +4500,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -4406,7 +4528,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
           <caret line="48" column="60" lean-forward="false" selection-start-line="48" selection-start-column="60" selection-end-line="48" selection-end-column="60" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -4443,14 +4567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utilcode/project.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -4469,6 +4585,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -4491,6 +4608,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="50" column="15" lean-forward="false" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -4528,16 +4646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitmapprocess/src/main/java/com/lhj/bitmapprocess/BitmapUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/developmentTools/Sdk/platforms/android-28/android.jar!/android/graphics/BitmapFactory.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -4553,6 +4661,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bitmapprocess/src/main/java/com/lhj/bitmapprocess/BitmapCompressUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -4561,10 +4680,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/CompressActivity.java">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -4583,22 +4702,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/bitmapprocess/src/main/java/com/lhj/bitmapprocess/BitmapUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <element signature="method#encodeYUV420SP#0;class#BitmapUtil#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding />
+        <state relative-caret-position="310">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lhj/bitmapprocess/test/CompressActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="68" column="51" lean-forward="false" selection-start-line="68" selection-start-column="51" selection-end-line="68" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/Bitmapprocess.iml" filepath="$PROJECT_DIR$/Bitmapprocess.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bitmapprocess/bitmapprocess.iml" filepath="$PROJECT_DIR$/bitmapprocess/bitmapprocess.iml" />
-      <module fileurl="file://$PROJECT_DIR$/utilcode/utilcode.iml" filepath="$PROJECT_DIR$/utilcode/utilcode.iml" />
     </modules>
   </component>
 </project>
