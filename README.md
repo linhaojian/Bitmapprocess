@@ -21,9 +21,9 @@
    
    ### dependency 中添加以下库引用代码
     
-     dependencies {
-	implementation 'com.github.User:Repo:Tag'
-     }
+	dependencies {
+		implementation 'com.github.User:Repo:Tag'
+	}
    
    
    
