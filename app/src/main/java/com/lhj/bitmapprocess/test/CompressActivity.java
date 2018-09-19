@@ -12,6 +12,9 @@ import android.widget.TextView;
 import com.lhj.bitmapprocess.BitmapCompressUtil;
 import com.lhj.bitmapprocess.BitmapUtil;
 
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
+
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
