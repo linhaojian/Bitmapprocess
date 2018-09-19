@@ -11,12 +11,12 @@
 ## 使用方式
   ### build.gradle 中添加以下代码
    
-	allprojects {
-       		repositories {
-          		...
-          		maven { url 'https://jitpack.io' }
-        	}
-      	}
+    allprojects {
+       	repositories {
+          	...
+          	maven { url 'https://jitpack.io' }
+        }
+    }
    
    
    ### dependency 中添加以下库引用代码
