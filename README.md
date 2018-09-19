@@ -23,7 +23,7 @@
     
      	dependencies {
 		    implementation 'com.github.User:Repo:Tag'
-	    }
+	}
    
    
    
