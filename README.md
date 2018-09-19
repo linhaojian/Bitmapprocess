@@ -6,7 +6,7 @@
     
 ## 实例展示
 
-    ![image](https://github.com/linhaojian/Bitmapprocess/blob/master/video/bitmapprocess.gif)
+![image](https://github.com/linhaojian/Bitmapprocess/blob/master/video/bitmapprocess.gif)
     
 ## 使用方式
   ### build.gradle 中添加以下代码
